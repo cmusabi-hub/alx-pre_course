@@ -1,1 +1,1 @@
-Getting started with GIT
+Getting started with GIT.
